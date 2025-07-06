@@ -40,7 +40,7 @@ To use our Discord apps or other tools, visit their respective repositories or c
 
 - **GitHub:** [https://github.com/ZarCodeX](https://github.com/ZarCodeX)  
 - **Discord:** Join our support server [Zarco HQ](https://discord.gg/6YVmxA4Qsf)  
-- **Twitter:** [@ZarCodeX](https://twitter.com/ZarCodeX)  
+- **X:** [@ZarCodeX](https://x.com/ZarCodeX)  
 - **Fiverr:** [ZarCodeX on Fiverr](https://fiverr.com/ZarCodeX)
 
 ---
